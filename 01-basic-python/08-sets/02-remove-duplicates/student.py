@@ -8,4 +8,3 @@ def remove_duplicates(xs):
             notaList.add(x)
             res.append(x)
     return res
-
